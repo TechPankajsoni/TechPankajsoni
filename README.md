@@ -14,7 +14,8 @@ I enjoy building web applications, working with APIs and databases, and learning
 - 💻 Interested in backend development, web development and software engineering
 - 🔧 Have worked with Node.js, Express.js, React.js, REST APIs and databases
 - 🧪 Familiar with API testing, debugging and version control
-- 🌱 Currently strengthening my skills in Python, databases, data analytics and AI/ML
+- 📊 Exploring data and analytics tools including Power BI, IBM Cognos Analytics, KNIME and Databricks
+- 🌱 Currently strengthening my skills in Python, databases and AI/ML
 - 🤝 Interested in connecting with developers and contributing to practical projects
 
 ## Experience
@@ -44,6 +45,7 @@ I enjoy building web applications, working with APIs and databases, and learning
 
 **Languages & Web**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -58,6 +60,13 @@ I enjoy building web applications, working with APIs and databases, and learning
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data & Analytics Platforms**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDCE3E?style=flat-square&logo=knime&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 **Tools**
 
